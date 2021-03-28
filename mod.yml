@@ -14,5 +14,5 @@ assets:
     type: list
     method: kh2msg
     source:
-    - name: ....yml
+    - name: Dot.yml
       language: en
