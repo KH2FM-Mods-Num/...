@@ -6,8 +6,8 @@ assets:
 #Texts
 - name: msg/jp/sys.bar
   multi:
-  - msg/us/sys.bar
-  - msg/uk/sys.bar
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
   method: binarc
   source:
   - name: sys
