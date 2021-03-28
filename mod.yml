@@ -1,7 +1,7 @@
-title: Dot
+title: ...
 game: kh2
 originalAuthor: 1234567890num
-description: Dot
+description: ...
 assets:
 #Texts
 - name: msg/jp/sys.bar
@@ -14,5 +14,5 @@ assets:
     type: list
     method: kh2msg
     source:
-    - name: Dot.yml
+    - name: ....yml
       language: en
