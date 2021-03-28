@@ -1,0 +1,18 @@
+title: ...
+game: kh2
+originalAuthor: 1234567890num
+description: ...
+assets:
+#Texts
+- name: msg/jp/sys.bar
+  multi:
+  - msg/us/sys.bar
+  - msg/uk/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: ....yml
+      language: en
